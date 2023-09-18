@@ -1,0 +1,15 @@
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\bin\Debug\net6.0\TransportProblemsConsole.exe
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\bin\Debug\net6.0\TransportProblemsConsole.deps.json
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\bin\Debug\net6.0\TransportProblemsConsole.runtimeconfig.json
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\bin\Debug\net6.0\TransportProblemsConsole.dll
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\bin\Debug\net6.0\TransportProblemsConsole.pdb
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\obj\Debug\net6.0\TransportProblemsConsole.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\obj\Debug\net6.0\TransportProblemsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\obj\Debug\net6.0\TransportProblemsConsole.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\obj\Debug\net6.0\TransportProblemsConsole.AssemblyInfo.cs
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\obj\Debug\net6.0\TransportProblemsConsole.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\obj\Debug\net6.0\TransportProblemsConsole.dll
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\obj\Debug\net6.0\refint\TransportProblemsConsole.dll
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\obj\Debug\net6.0\TransportProblemsConsole.pdb
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\obj\Debug\net6.0\TransportProblemsConsole.genruntimeconfig.cache
+C:\Users\vladi\source\repos\TransportProblemsConsole\TransportProblemsConsole\obj\Debug\net6.0\ref\TransportProblemsConsole.dll
